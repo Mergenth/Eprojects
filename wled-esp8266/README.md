@@ -1,5 +1,4 @@
-Tabanını kendim FreeCAD'de tasarlayıp bastığım WLED yazılımı ile çalışan, nodemcu v3 esp8266 kart ile iletişim kuran köşe lambası.
-
+ESP8266 WLED Corner Lamp with individually adressable LEDs. I have designed the base of the model in FreeCAD and printed with PLA.
 
 
 ![WhatsApp Image 2022-10-19 at 10 46 25 PM](https://user-images.githubusercontent.com/59098807/196790470-b7f7cd9e-0add-4a4b-b581-8ed340d19a50.jpeg)
